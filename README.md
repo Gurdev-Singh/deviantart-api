@@ -10,4 +10,4 @@ oAuth2 authentication using
 `https://www.deviantart.com/api/v1/oauth2/user/profile/{username}`
 
 
-To run `python deviantart-api`. Change the `username` parameter in `getProfileData()` call on line no. 32
+To run `python deviant-api.py`. Change the `username` parameter in `getProfileData()` call on line no. 32
